@@ -1,0 +1,21 @@
+body{
+  margin: 15px;
+  background-color: rgb(236, 236, 236);
+}
+#main{
+background-color: silver;
+}
+#title{
+margin: 15;
+}
+#img-div{
+background-color: rgb(236, 236, 236);
+}
+img{
+  width: auto;
+  height: auto;
+  display: block;
+}
+#image{
+  max-width:100%;
+}
